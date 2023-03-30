@@ -1,0 +1,18 @@
+{
+  "createTaskModalHeading": "Add Task",
+  "titleInputLabel": "Title",
+  "descriptionInputLabel": "Description",
+  "dueDateInputLabel": "Due Date",
+  "createTaskSubmitLabel": "Add Task",
+  "createTaskLoading": "Creating task...",
+  "createTaskSuccess": "Task created successfully.",
+  "createTaskError": "Task not created. Please try again.",
+  "editTaskModalHeading": "Edit Task",
+  "editTaskSubmitLabel": "Edit Task",
+  "updateTaskLoading": "Updating task...",
+  "updateTaskSuccess": "Task updated successfully.",
+  "updateTaskError": "Task not updated. Please try again.",
+  "deleteTaskLoading": "Deleting task...",
+  "deleteTaskSuccess": "Task deleted successfully.",
+  "deleteTaskError": "Task not deleted. Please try again."
+}
